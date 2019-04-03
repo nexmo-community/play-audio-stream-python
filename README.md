@@ -13,3 +13,4 @@ You need:
 
 Full instructions will be published in an upcoming blog post.
 
+[Blog Post](https://www.nexmo.com/blog/2019/04/03/how-to-play-an-audio-stream-into-a-call-with-python-dr/)
